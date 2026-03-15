@@ -66,7 +66,7 @@ A powerful, feature-rich Telegram bot powered by **Groq AI** (with Cerebras fall
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Sandeepchch/Telegram-Super-AI-Bot.git
+git clone https://github.com/SandeepAi369/Telegram-Super-AI-Bot.git
 cd Telegram-Super-AI-Bot
 ```
 
@@ -301,7 +301,7 @@ MAX_HISTORY = 10               # Conversation history size
 sudo apt-get install python3 python3-venv python3-pip
 
 # Clone and setup
-git clone https://github.com/Sandeepchch/Telegram-Super-AI-Bot.git
+git clone https://github.com/SandeepAi369/Telegram-Super-AI-Bot.git
 cd Telegram-Super-AI-Bot
 bash setup.sh
 cp .env.example .env
@@ -414,7 +414,7 @@ If this bot helps you, please:
 
 ```bash
 # Clone
-git clone https://github.com/Sandeepchch/Telegram-Super-AI-Bot.git && cd Telegram-Super-AI-Bot
+git clone https://github.com/SandeepAi369/Telegram-Super-AI-Bot.git && cd Telegram-Super-AI-Bot
 
 # Setup
 bash setup.sh
